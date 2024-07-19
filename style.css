@@ -1,0 +1,57 @@
+body {
+  font-family: sans-serif;
+  margin: 2;
+  padding: 0;
+}
+
+header {
+  background-color: #ec913c;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+main {
+  padding: 20px;
+  background-color: #3762e1;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: disc;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+footer {
+  background-color: #547cf2;
+  text-align: center;
+  padding: 10px;
+}
+.inicio {
+  border: 5px solid #000; 
+  border-radius: 20px; 
+}
+.informacion {
+  border: 5px solid #fafafa; 
+  border-radius: 20px; 
+}
+.ventajas {
+  border: 5px solid #c2a22e; 
+  border-radius: 20px; 
+}
